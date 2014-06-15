@@ -1,0 +1,28 @@
+/*webbera.com | eclosione su web en la red. - Servicio de posicionamiento. - http://webbera.com*/
+
+/*TEAM*/
+	Creator: David Alcántara
+	Contact: e-webbera [at] webbera.com /*email*/
+	Twitter: @DalZap
+	From: Seville, Spain
+
+/*hacer lo mismo para cada miembro del equipo de desarrollo*/
+	Creator: Otra persona
+	Contact: e-webbera [at] webbera.com /*email*/
+	Twitter: @otroTwitter
+	From: Cuidad, Pais
+
+/*THANKS*/
+	persona01, persona02,
+	institución http://dominio.com
+
+/* IN MEMORIAL*/
+	PERSONA A LA QUE SE REMEMORA
+
+ >>>>>Datos téticos del sitio web<<<<<<
+/* SITE */
+	Last update: fecha de la última actualización
+	Language: Idioma
+	Standars: HTML5, CSS3, JavaScript
+	Components: jQuery
+	Software: SublimeText3, Adobe Photoshop
